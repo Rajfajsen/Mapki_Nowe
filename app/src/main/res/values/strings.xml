@@ -1,0 +1,9 @@
+<resources>
+
+
+    <string name="app_name">Mapki</string>
+    <string name="google_maps_api_key">AIzaSyA6jClVYvQrXaL8-R4dI9F_gi9Pecp7Jkw</string>
+    <string name="Hospital">Szpital</string>
+
+
+</resources>
